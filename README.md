@@ -1,1 +1,3 @@
-# Text_Analytics_project
+# Text Analytics Project
+
+People spend 10% of their time everyday on social media, on average. In addition to that, 10% of US retail happen online. This presents a brilliant opportunity in two ways: a plethora of textual data to process and understand as well as business use cases that could leverage algorithms that process and translate textual data into quantitative sentiment scores. Nevertheless, for both social media and ecommerce, it is very easy to amass large quantities of unlabeled data but extremely expensive to amass labelled data in a model ready format. Henceforth, different approaches of sentiment analysis is gaining popularity in the research world with both supervised and unsupervised learning gaining attention. This paper attempts to do a comparative study of both the approaches. 
